@@ -7,7 +7,6 @@
 
 <h3 align="center">An aspirant of Full stack Web Developer</h3>
 
-![gitartwork](gitartwork.svg)
 
 <p align="center"> 
   Visitor count<br>
