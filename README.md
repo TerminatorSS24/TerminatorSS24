@@ -21,9 +21,7 @@
 
 - 🌱 I’m currently learning *MERN stack*
 
-- 📝 I often write articles on [https://hashnode.com/@TerminatorSS24](https://hashnode.com/@TerminatorSS24)
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GFIlHjW7gwONoMJom7PR0rzTXWpI8ZZE/view?usp=drive_link](https://drive.google.com/file/d/1GFIlHjW7gwONoMJom7PR0rzTXWpI8ZZE/view?usp=drive_link)
+- 📝 I often write articles on [My HashNode Account](https://hashnode.com/@TerminatorSS24)
 
 - 💬 Ask me about *Web Development, Competitive Programming, GCloud*
 
