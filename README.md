@@ -8,10 +8,6 @@
 <h3 align="center">An aspirant of Full stack Web Developer</h3>
 
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/TerminatorSS24/count.svg" />
-</p>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
